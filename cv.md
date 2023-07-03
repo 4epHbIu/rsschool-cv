@@ -5,5 +5,24 @@
 2. * E-mail: *4yku1986@gmail.com*
    * **GitHub** [4epHbIu](https://github.com/4epHbIu)
 
-3. 
+## About me
 
+3. * *By nationality Belarus. 37 years. I work as an operator of machine tools with program control. Decided to start learning programming. On the advice of a friend, I chose the frontend. I consider myself purposeful, sociable and able to work in a team.*
+
+## Skills
+
+4. * *I have minimal skills in CSS and HTML.*
+
+5. * 
+
+6. * 
+
+## Education
+
+7. * *Finished 11 classes of secondary school №40.*
+
+## Languages
+
+8. * English (A1)
+   * Russian (Natve)
+   * Belarusian (Native)
