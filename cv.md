@@ -1,4 +1,9 @@
-                                                                          PERSONAL INFO
-1.**Name:** __Andrei Dishlevich__
+# PERSONAL INFO
 
-2.**EMAIL:** (*4yku1986@gmail.com*)
+1. * **Name:** __Andrei Dishlevich__
+
+2. * E-mail: *4yku1986@gmail.com*
+   * **GitHub** [4epHbIu](https://github.com/4epHbIu)
+
+3. 
+
