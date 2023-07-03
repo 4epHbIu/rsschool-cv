@@ -22,3 +22,8 @@
 * English (A1)
 * Russian (Native)
 * Belarusian (Native)
+=======
+                                                                          PERSONAL INFO
+1.**Name:** **Andrei Dishlevich**
+
+2.**EMAIL:** (*<4yku1986@gmail.com>*)
