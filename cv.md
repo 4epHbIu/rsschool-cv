@@ -24,5 +24,5 @@
 ## Languages
 
 8. * English (A1)
-   * Russian (Natve)
+   * Russian (Native)
    * Belarusian (Native)
