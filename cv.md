@@ -4,25 +4,29 @@
 
 * E-mail: *<4yku1986@gmail.com>*
 * **GitHub** [4epHbIu](https://github.com/4epHbIu)
+ * **Name:** __Andrei Dishlevich__
+
+ * E-mail: *4yku1986@gmail.com*
+ * **GitHub** [4epHbIu](https://github.com/4epHbIu)
 
 ## About me
 
-3. * *By nationality Belarus. 37 years. I work as an operator of machine tools with program control. Decided to start learning programming. On the advice of a friend, I chose the frontend. I consider myself purposeful, sociable and able to work in a team.*
+ * *By nationality Belarus. 37 years. I work as an operator of machine tools with program control. Decided to start learning programming. On the advice of a friend, I chose the frontend. I consider myself purposeful, sociable and able to work in a team.*
 
 ## Skills
 
-4. * *I have minimal skills in CSS and HTML.*
+ * *I have minimal skills in CSS and HTML.*
 
-5. * 
+ * 
 
-6. * 
+ * 
 
 ## Education
 
-7. * *Finished 11 classes of secondary school №40.*
+ * *Finished 11 classes of secondary school №40.*
 
 ## Languages
 
-8. * English (A1)
+   * English (A1)
    * Russian (Native)
    * Belarusian (Native)
