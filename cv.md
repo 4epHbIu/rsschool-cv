@@ -1,6 +1,6 @@
 # PERSONAL INFO
 
-* **Name:** __Andrei Dyshlevich__
+* **Name:** *Andrei Dyshlevich*git
 
 * E-mail: *<4yku1986@gmail.com>*
 * **GitHub** [4epHbIu](https://github.com/4epHbIu)
@@ -13,9 +13,9 @@
 
 * *I have minimal skills in CSS and HTML.*
 
-* 
+*
 
-* 
+*
 
 ## Education
 
