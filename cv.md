@@ -13,10 +13,6 @@
 
 * *I have minimal skills in CSS and HTML.*
 
-*
-
-*
-
 ## Education
 
 * *Finished 11 classes of secondary school №40.*
