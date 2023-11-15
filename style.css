@@ -19,29 +19,18 @@ body {
     justify-content: space-between;
 }
 
-.container {
-    max-width: 1440px;
-    margin: 0 auto;
-}
+.main {
+    color: #0000FF;
+    text-decoration: overline;
+    padding: 10px 10px 10px 15px;
+    position: relative;
+    top: 10px;
+    text-align: center;
+    border-style: solid;
 
-.nav-list {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    list-style: none;
-    padding: 0 500px;
-    line-height: 50px;
-}
 
-.main-container {
-    display: flex;
-    flex-wrap: wrap;
-}
 
-.section {
-    width: 50%;
-}
 
-html {
-    scroll-behavior: smooth;
-}
+
+
+
