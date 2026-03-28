@@ -40,9 +40,7 @@ body {
   transition: background 0.2s;
 }
 
-.ulnav li a:hover {
-  background: #eef2f6;         /* фон при наведении */
-}
+
 
 .header {
   display: flex;
@@ -145,6 +143,21 @@ section h2 {
   margin-bottom: 0.5rem;
 }
 
+.code-example pre {
+  background: #1e2a3e;
+  color: #e2e8f0;
+  padding: 1rem;
+  border-radius: 16px;
+  overflow-x: auto;
+  font-family: 'Fira Code', monospace;
+  font-size: 0.85rem;
+  margin: 0.5rem 0;
+}
+
+.code-example code {
+  font-family: inherit;
+}
+
 .code-example a {
   color: #3b82f6;
   text-decoration: none;
@@ -152,6 +165,12 @@ section h2 {
 
 .code-example a:hover {
   text-decoration: underline;
+}
+
+.expirience h3{
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
 }
 
 .project h3 {
