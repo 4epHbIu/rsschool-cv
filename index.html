@@ -3,34 +3,45 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CV | Andrei Dishlevich</title>
+  <title>CV | Andrei Dysсhlevich</title>
   <link rel="stylesheet" href="style.css">
   <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&display=swap" rel="stylesheet">
 </head>
 <body>
+
+  <nav class="navigation">
+        <ul class="ulnav">
+          <li><a href="#about">About me</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#education">Education</a></li>
+          <li><a href="#english">English</a></li>
+        </ul>
+  </nav>
+
   <div class="container">
     <header class="header">
       <div class="avatar">
-        <img src="photo.jpg" alt="Andrei" with="120" height="120">
+        <img src="photo.jpg" alt="Andrei">
       </div>
       <div class="header-info">
-        <h1>Andrei Dishlevich</h1>
+        <h1>Andrei Dysсhlevich</h1>
         <p class="job-title">Junior Frontend Developer</p>
         <div class="contacts">
-          <a href="mailto:4yku1986@gmail.com">📧 4yku1986@gmail.com</a>
-          <a href="https://github.com/4epHbIu" target="_blank">🐙 GitHub/4epHbIu</a>
-          <a href="https://discordapp.com/users/.4ephbiu" target="_blank">💬 Discord: .4ephbiu</a>
+          <a href="https://google.com">4yku1986@gmail.com</a>
+          <a href="https://github.com/4epHbIu" target="_blank">GitHub/4epHbIu</a>
+          <a href="https://discordapp.com/users/.4ephbiu" target="_blank">Discord: .4ephbiu</a>
         </div>
       </div>
     </header>
 
     <main>
-      <section class="about">
+      <section class="about" id="about">
         <h2>About Me</h2>
         <p>I am a passionate aspiring frontend developer with a strong desire to learn and grow in the IT industry. I enjoy building user-friendly interfaces and solving challenging problems. My goal is to become a skilled developer who can create efficient and accessible web applications.</p>
       </section>
 
-      <section class="skills">
+      <section class="skills" id="skills">
         <h2>Skills</h2>
         <ul>
           <li>HTML5, CSS3 (Flexbox, Grid, Responsive Design)</li>
@@ -40,31 +51,41 @@
         </ul>
       </section>
 
-      <section class="experience">
+      <section class="experience" id="experience">
         <h2>Experience &amp; Projects</h2>
         <div class="project">
           <h3>CV Project (HTML/CSS)</h3>
           <p>Developed this responsive CV as part of RS School course. Used semantic HTML and modern CSS techniques.</p>
           <p><strong>GitHub:</strong> <a href="https://github.com/4epHbIu/rsschool-cv" target="_blank">rsschool-cv</a></p>
         </div>
+        <div class="code-example" id="code-example">
+         <h3>Code Example</h3>
+            <p>Below is a simple function from <strong>Codewars</strong> that returns the sum of two smallest numbers in an array.</p>
+            <pre><code>function sumTwoSmallestNumbers(numbers) {
+              let [a, b] = numbers.sort((x, y) => x - y);
+              return a + b;
+            }</code></pre>
+            <p><a href="https://www.codewars.com/users/4epHbIu" target="_blank">My Codewars profile</a></p>
+        </div>
       </section>
 
-      <section class="education">
+      <section class="education" id="education">
         <h2>Education</h2>
         <ul>
           <li><strong>RS School</strong> – JavaScript/Frontend Course (2026, in progress)</li>
-          <li><strong>school №40</strong> – Bachelor's Degree in Computer Science (or other) (1993–2004)</li>
+          <li><strong>school №40</strong> – 11 classes (1993–2004)</li>
         </ul>
       </section>
 
-      <section class="english">
+      <section class="english" id="english">
         <h2>English Proficiency</h2>
         <p>Intermediate (B1). Actively improving through reading technical documentation, watching webinars, and participating in English-speaking communities. I can read and understand technical articles, and communicate in written form.</p>
       </section>
     </main>
 
     <footer>
-      <p>© 2026 Your Name | <a href="https://github.com/4epHbIu" target="_blank">GitHub</a></p>
+      <a href="https://rs.school/courses/javascript"><img src="rslogo.svg" alt="rsschool" width="120" height="120"></a>      
+      <p>© 2026 Andrei Dysсhlevich | <a href="https://github.com/4epHbIu" target="_blank">GitHub</a> | <a href="https://rs.school/courses/javascript-preschool-ru">RSSchool</a></p>
     </footer>
   </div>
 </body>

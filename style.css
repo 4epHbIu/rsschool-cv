@@ -4,22 +4,43 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: 'Inter', sans-serif;
-  background-color: #f5f7fa;
-  color: #1e2a3a;
+  background-color: #ffffff;
+  color: #485361;
   line-height: 1.5;
   padding: 2rem 1rem;
 }
-
-.container {
+.navigation {
+  display: flex;
+  justify-content: flex-end;
   max-width: 1000px;
-  margin: 0 auto;
-  background: white;
-  border-radius: 24px;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.05);
-  overflow: hidden;
+  margin: 1rem auto 0;
+  padding: 0 1rem;
 }
+
+.ulnav {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.ulnav li a {
+  text-decoration: none;
+  color: #000000;              /* цвет ссылок */
+  font-weight: 500;
+  padding: 0.4rem 0.8rem;
+  border-radius: 20px;
+  transition: background 0.2s;
+}
+
+
 
 .header {
   display: flex;
@@ -122,6 +143,21 @@ section h2 {
   margin-bottom: 0.5rem;
 }
 
+.code-example pre {
+  background: #1e2a3e;
+  color: #e2e8f0;
+  padding: 1rem;
+  border-radius: 16px;
+  overflow-x: auto;
+  font-family: 'Fira Code', monospace;
+  font-size: 0.85rem;
+  margin: 0.5rem 0;
+}
+
+.code-example code {
+  font-family: inherit;
+}
+
 .code-example a {
   color: #3b82f6;
   text-decoration: none;
@@ -129,6 +165,12 @@ section h2 {
 
 .code-example a:hover {
   text-decoration: underline;
+}
+
+.expirience h3{
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
 }
 
 .project h3 {
