@@ -33,14 +33,12 @@ body {
 
 .ulnav li a {
   text-decoration: none;
-  color: #000000;              /* цвет ссылок */
+  color: #000000;
   font-weight: 500;
   padding: 0.4rem 0.8rem;
   border-radius: 20px;
   transition: background 0.2s;
 }
-
-
 
 .header {
   display: flex;
